@@ -1,3 +1,4 @@
+![Logo](https://github.com/Mahmoud-flutter-dev/social_app/blob/master/readme/chat_logo.png)
 
 # Social App
 
@@ -8,7 +9,6 @@ This social app is designed to connect people with similar interests, hobbies, a
 
 - [@Mahmoud](https://github.com/Mahmoud-flutter-dev)
 
-![Logo](https://github.com/Mahmoud-flutter-dev/social_app/blob/master/readme/chat_logo.png)
 
 ## Demo
 ![social app demo](https://github.com/Mahmoud-flutter-dev/social_app/blob/master/readme/Social%20app%20flutter.gif)
